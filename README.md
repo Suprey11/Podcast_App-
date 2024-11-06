@@ -2,15 +2,16 @@
 
 A new Flutter project.
 
-## Getting Started
+['Link dribble'](https://dribbble.com/shots/24887845-Podcast-Hub-Mobile-App-Concept)
 
-This project is a starting point for a Flutter application.
+https://github.com/user-attachments/assets/d27f81f9-0eb8-4ae1-9511-b0baeeac50ac
 
-A few resources to get you started if this is your first Flutter project:
+![image](https://github.com/user-attachments/assets/6d3c9859-0f82-4773-8c6c-8e875dd963d7)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://github.com/user-attachments/assets/fca1841b-55b5-4f9f-8efd-459637226613)
+
+![image](https://github.com/user-attachments/assets/bd1d5a29-0cce-4a5d-99ce-df4d0c88359b)
+
+
+
